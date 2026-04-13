@@ -1,0 +1,18 @@
+C:\Users\user\OneDrive - ADvTECH Ltd\2nd Year\PROG6221\Cybersecurity Chatbot\Cybersecurity Chatbot\bin\Debug\net10.0\Cybersecurity Chatbot.exe
+C:\Users\user\OneDrive - ADvTECH Ltd\2nd Year\PROG6221\Cybersecurity Chatbot\Cybersecurity Chatbot\bin\Debug\net10.0\Cybersecurity Chatbot.deps.json
+C:\Users\user\OneDrive - ADvTECH Ltd\2nd Year\PROG6221\Cybersecurity Chatbot\Cybersecurity Chatbot\bin\Debug\net10.0\Cybersecurity Chatbot.runtimeconfig.json
+C:\Users\user\OneDrive - ADvTECH Ltd\2nd Year\PROG6221\Cybersecurity Chatbot\Cybersecurity Chatbot\bin\Debug\net10.0\Cybersecurity Chatbot.dll
+C:\Users\user\OneDrive - ADvTECH Ltd\2nd Year\PROG6221\Cybersecurity Chatbot\Cybersecurity Chatbot\bin\Debug\net10.0\Cybersecurity Chatbot.pdb
+C:\Users\user\OneDrive - ADvTECH Ltd\2nd Year\PROG6221\Cybersecurity Chatbot\Cybersecurity Chatbot\bin\Debug\net10.0\System.Speech.dll
+C:\Users\user\OneDrive - ADvTECH Ltd\2nd Year\PROG6221\Cybersecurity Chatbot\Cybersecurity Chatbot\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Speech.dll
+C:\Users\user\OneDrive - ADvTECH Ltd\2nd Year\PROG6221\Cybersecurity Chatbot\Cybersecurity Chatbot\obj\Debug\net10.0\Cybersecurity Chatbot.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - ADvTECH Ltd\2nd Year\PROG6221\Cybersecurity Chatbot\Cybersecurity Chatbot\obj\Debug\net10.0\Cybersecurity Chatbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - ADvTECH Ltd\2nd Year\PROG6221\Cybersecurity Chatbot\Cybersecurity Chatbot\obj\Debug\net10.0\Cybersecurity Chatbot.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - ADvTECH Ltd\2nd Year\PROG6221\Cybersecurity Chatbot\Cybersecurity Chatbot\obj\Debug\net10.0\Cybersecurity Chatbot.AssemblyInfo.cs
+C:\Users\user\OneDrive - ADvTECH Ltd\2nd Year\PROG6221\Cybersecurity Chatbot\Cybersecurity Chatbot\obj\Debug\net10.0\Cybersecurity Chatbot.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - ADvTECH Ltd\2nd Year\PROG6221\Cybersecurity Chatbot\Cybersecurity Chatbot\obj\Debug\net10.0\Cybersec.0B14E185.Up2Date
+C:\Users\user\OneDrive - ADvTECH Ltd\2nd Year\PROG6221\Cybersecurity Chatbot\Cybersecurity Chatbot\obj\Debug\net10.0\Cybersecurity Chatbot.dll
+C:\Users\user\OneDrive - ADvTECH Ltd\2nd Year\PROG6221\Cybersecurity Chatbot\Cybersecurity Chatbot\obj\Debug\net10.0\refint\Cybersecurity Chatbot.dll
+C:\Users\user\OneDrive - ADvTECH Ltd\2nd Year\PROG6221\Cybersecurity Chatbot\Cybersecurity Chatbot\obj\Debug\net10.0\Cybersecurity Chatbot.pdb
+C:\Users\user\OneDrive - ADvTECH Ltd\2nd Year\PROG6221\Cybersecurity Chatbot\Cybersecurity Chatbot\obj\Debug\net10.0\Cybersecurity Chatbot.genruntimeconfig.cache
+C:\Users\user\OneDrive - ADvTECH Ltd\2nd Year\PROG6221\Cybersecurity Chatbot\Cybersecurity Chatbot\obj\Debug\net10.0\ref\Cybersecurity Chatbot.dll
